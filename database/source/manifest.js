@@ -1,6 +1,6 @@
 {
   "name": "xtuple-ice-cream",
-  "version": "1.8.0",
+  "version": "0.0.2",
   "comment": "Ice Cream extension",
   "loadOrder": 999,
   "dependencies": ["crm"],
