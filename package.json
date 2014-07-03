@@ -3,14 +3,14 @@
   "author": "xTuple <dev@xtuple.com>",
   "name": "xtuple-ice-cream",
   "description": "xTuple ice cream extension",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "dependencies": {
   },
   "devDependencies": {
   },
   "optionalDependencies": {},
   "peerDependencies": {
-    "xtuple": "4.5.1"
+    "xtuple": "*"
   },
   "repository": {
     "type": "git",
